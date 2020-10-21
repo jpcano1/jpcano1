@@ -12,3 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about artificial intelligence!!!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/juan-pablo-cano-buitrago-2aa127150/)!
 - 🎸 Guitar player and full-time metalhead 🤘
+
+### Here are some Insights
+<table>
+  <tr>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jpcano1&show_icons=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcano1&layout=compact&hide=jupyter%20notebook,TSQL,HTML,CSS"/>
+    </td>
+  </tr>
+</table>
