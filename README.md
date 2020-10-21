@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=plastic&logo=google&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jenkins-D33834?style=plastic&logo=jenkins&logoColor=FFFFFF)
 
 ### Here are some Insights
 <table>
