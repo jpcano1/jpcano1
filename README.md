@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-PyTorch-c6000a?style=plastic&logo=PyTorch&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Google Cloud-4285F4?style=plastic&logo=google&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=plastic&logo=google&logoColor=FFFFFF)
 
 ### Here are some Insights
 <table>
