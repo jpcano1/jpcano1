@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-informational?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/IDE-PyCharm-ADFF2F?style=plastic&logo=PyCharm)
 
-![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-PyTorch-c6000a?style=plastic&logo=PyTorch&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=Bootstrap&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-PyTorch-c6000a?style=plastic&logo=PyTorch&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=plastic&logo=google&logoColor=FFFFFF)
 
 ### Here are some Insights
