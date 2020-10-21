@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🎸 Guitar player and full-time metalhead 🤘
 
 ### Technologies
-![](https://img.shields.io/badge/IDE-PyCharm-brightgreen)
+![](https://img.shields.io/badge/IDE-PyCharm-green?style=plastic&logo=PyCharm)
 
 ### Here are some Insights
 <table>
