@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jenkins-D33834?style=plastic&logo=jenkins&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Docker-0db7ed?style=plastic&logo=docker&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=plastic&logo=amazon&logoColor=FFFFFF)
 
 ### Here are some Insights
 <table>
