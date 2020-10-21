@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Technologies
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-informational?style=plastic&logo=Visual-Studio-Code)
 ![](https://img.shields.io/badge/IDE-PyCharm-green?style=plastic&logo=PyCharm)
-![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow)
+![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=ffffff)
 
 ### Here are some Insights
 <table>
