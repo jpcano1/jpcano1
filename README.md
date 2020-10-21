@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jpcano1&show_icons=true&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcano1&layout=compact&hide=TSQL,HTML,CSS"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcano1&hide=TSQL,HTML,CSS"/>
     </td>
   </tr>
 </table>
