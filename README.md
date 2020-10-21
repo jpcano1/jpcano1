@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=Bootstrap&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=FFFFFF)
 
 ### Here are some Insights
 <table>
