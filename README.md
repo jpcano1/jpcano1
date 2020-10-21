@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### AI Development
 ![](https://img.shields.io/badge/-Jupyter-E46E2E?style=plastic&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-PyTorch-c6000a?style=plastic&logo=PyTorch&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-TensorFlow-ff9100?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
 
 #### Software Development
 ![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=FFFFFF)
