@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IDE-PyCharm-ADFF2F?style=plastic&logo=PyCharm)
 
 #### AI Development
-![](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Jupyter-E46E2E?style=plastic&logo=jupyter&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-PyTorch-c6000a?style=plastic&logo=PyTorch&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=FFFFFF)
 
