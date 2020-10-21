@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on artificial intelligence for medic diagnosis
+- 🔭 I’m currently working on artificial intelligence for medical diagnosis
 - 🌱 I’m currently learning PyTorch for Generative Adversarial Networks
 - 👯 I’m looking to collaborate on projects for AI in medicine and in climate 🌎🌱
 - 💬 Ask me about artificial intelligence!!!
