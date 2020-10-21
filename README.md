@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/juan-pablo-cano-buitrago-2aa127150/)!
 - 🎸 Guitar player and full-time metalhead 🤘
 
+### Technologies
+[](https://img.shields.io/badge/IDE-PyCharm-brightgreen)
+
 ### Here are some Insights
 <table>
   <tr>
