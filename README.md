@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on artificial intelligence for medical diagnosis
-- 🌱 I’m currently learning PyTorch for Advanced Neural Network Architectures
+- 🌱 I’m currently learning Advanced Neural Architectures for Semantic Segmentation
 - 👯 I’m looking to collaborate on projects for AI in medicine and in climate 🌎🌱
 - 💬 Ask me about artificial intelligence!!!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/juan-pablo-cano-buitrago-2aa127150/)!
