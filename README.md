@@ -28,7 +28,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Flask-FFFFFF?style=plastic&logo=flask&logoColor=000000)
 ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=Bootstrap&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
+
+#### Databases
 ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic-square&logo=PostgreSQL&logoColor=ffffff)
+![](https://img.shields.io/badge/-MySQL-336791?style=plastic-square&logo=PostgreSQL&logoColor=ffffff)
+
 
 #### DevOps
 ![](https://img.shields.io/badge/-Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=FFFFFF)
