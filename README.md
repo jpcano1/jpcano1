@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Flask-FFFFFF?style=plastic&logo=flask&logoColor=000000)
 ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=Bootstrap&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Node.js-43853D?style=plastic&logo=node.js&logoColor=FFFFFF)
 
 #### Databases
 ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF)
