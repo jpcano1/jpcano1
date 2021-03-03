@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 #### Databases
 ![](https://img.shields.io/badge/-MongoDB-4DB33D?style=plastic&logo=mongodb&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic-square&logo=PostgreSQL&logoColor=ffffff)
-![](https://img.shields.io/badge/-MySQL-00000F?style=plastic-square&logo=PostgreSQL&logoColor=ffffff)
+![](https://img.shields.io/badge/-MySQL-00000F?style=plastic-square&logo=mysql&logoColor=ffffff)
 
 
 #### DevOps
